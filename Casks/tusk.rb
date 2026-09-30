@@ -1,6 +1,6 @@
 cask "tusk" do
   version "0.2.0"
-  sha256 "5d7af9588f1695beed76245851febbe36b6441625df2355f0a8f0eca7818093f"
+  sha256 "52df92e59afee19f61c278881cd7d45ebfef2c919ba6fdb4ff7d29f744db0398"
 
   url "https://github.com/alpcanaydin/tusk/releases/download/v#{version}/Tusk-#{version}-arm64.dmg"
   name "Tusk"
